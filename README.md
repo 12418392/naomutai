@@ -47,6 +47,7 @@ These are my co-workers from a Japanese restaurant I worked in and there are oth
 Closeness, Betweenness and Eigenvector Centrality
 ----------------------------------------------------------------------
 The biggest node on the graph at the bottom of orange is my bestfriend so she has high betweenness centrality as I introduced her to one or a few people from each of my communities of friends so she is connected to with both  homogenous and heterogenetic  groups.
+
 Some of the people from the turquoise sector would be high eigenvector centrality as many of them know a lot of people who knows a lot of people as they have connections to many schools in Dublin. 
 There is a friend at the bottom yellowish green cluster from one of my schools and she skipped transition year has a high closeness centrality as she knows the two different years of the school.  
 
