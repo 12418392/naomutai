@@ -2,14 +2,19 @@
  
 Creating the graph
 -------------------------
-The PDF I have attached is the graph of my social network connections on Facebook. It is made using “Gephi” a software that visualises networks. I downloaded Gephi onto my computer and from my Facebook account searched the word “netvizz” to get my personal network in a PDF format.  
-I first imported the file to Gephi and a grey square with dots and lines appeared which reflected my social network visually. Every dot on the graph represented a node - my friends on Facebook and every line represented an edge - the connection and interpersonal ties between my friends on Facebook. 
-I changed the layout to Force Atlas 2 which suited my network the most as it segregated the different network more than other layouts and visualised clearly of the communities within my Facebook. 
+The PDF I have attached is the graph of my social network connections on Facebook. It is made using “Gephi” a software that visualises networks. I downloaded Gephi onto my computer and from my Facebook account searched the word “netvizz” to get my personal network in a PDF format.  The process is as follows:
 
-I wanted to know which cluster meant what group so I ran “Modularity” then on “Partition” I applied “Modularity class” which colour coded my network. 
-To know which friends had a lot of connections with my other friends, I ran “Average Degree” which calculates how many degrees are in each node. On “Ranking” I clicked the diamond shaped button and chose “Indegree” or “Outdegree”, as Facebook is a direct network as if you’re friends with someone they’ll have you as a friend too in which case it doesn’t matter which degree you chose.  I choose the maximum size and the minimum size of nodes and when I apply it some nodes who know many people who I know would appear much bigger than another. 
-I clicked nodes were which people, I hit the Text button to see the names of people, which will inform me more about the graph. 
-Finally I exported the graph into a PDF format.
+* I first imported the file to Gephi and a grey square with dots and lines appeared which reflected my social network visually. Every dot on the graph represented a node - my friends on Facebook and every line represented an edge - the connection and interpersonal ties between my friends on Facebook. 
+
+* I changed the layout to Force Atlas 2 which suited my network the most as it segregated the different network more than other layouts and visualised clearly of the communities within my Facebook. 
+
+* I wanted to know which cluster meant what group so I ran “Modularity” then on “Partition” I applied “Modularity class” which colour coded my network. 
+
+* To know which friends had a lot of connections with my other friends, I ran “Average Degree” which calculates how many degrees are in each node. On “Ranking” I clicked the diamond shaped button and chose “Indegree” or “Outdegree”, as Facebook is a direct network as if you’re friends with someone they’ll have you as a friend too in which case it doesn’t matter which degree you chose.  I choose the maximum size and the minimum size of nodes and when I apply it some nodes who know many people who I know would appear much bigger than another.
+
+* I clicked nodes were which people, I hit the Text button to see the names of people, which will inform me more about the graph. 
+
+* Finally I exported the graph into a PDF format.
 
 Influence, Bonding and Bridging
 -------------------------------------------
