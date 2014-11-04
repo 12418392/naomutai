@@ -16,23 +16,29 @@ Finally I exported the graph into a PDF format.
 Influence, Bonding and Bridging
 -------------------------------------------
 * Purple clusters 
+
 the furthest one from everyone else are people from my first secondary school I attended in first and second year from Wicklow. They are bonded strongly as they are in the same community geographically. Some of these purple are connected to my pink clusters as they are my new friends I made in UCD as some of the people from the school in Wicklow are now attending UCD.  
 
 * Turquoise and the light blue clusters
+
 These are friends I got to know through my friends who influenced my communities of friends. Most of the turquoise and blue clusters are in the same year in school so you can see a lot of bridging across the groups and bonding within the groups. 
 
 * Yellowish green cluster 
+
 They are people from my second secondary school.  
 
 * Orange cluster
+
 After that I moved to my third secondary school which are the people in the orange cluster at the top of the graph. 
 
 * Purple cluster
+
 And through the people in my third school I got to know a group of people from another big school which are the purple clusters who knew a lot of people from the two schools I went so there are a lot of bridging across those three communities. 
 
 The purple and the yellowish green clusters are not connected my turquoise and light blue clusters as they are in different years of school so there would be less chance of interactions, however many of them “know of” each other and some things for example the fashion and places they go to still is influenced even if they don’t know each other directly.
 
 * Green cluster & light blue clusters 
+
 These are my co-workers from a Japanese restaurant I worked in and there are other Japanese people in that cluster as well as some of the co-workers knows the Japanese people and the little green cluster just below are my co-workers from my current work place. 
 
 Closeness, Betweenness and Eigenvector Centrality
