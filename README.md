@@ -15,7 +15,7 @@ Finally I exported the graph into a PDF format.
 
 Influence, Bonding and Bridging
 -------------------------------------------
-* Purple clusters 
+#Purple clusters 
 
 the furthest one from everyone else are people from my first secondary school I attended in first and second year from Wicklow. They are bonded strongly as they are in the same community geographically. Some of these purple are connected to my pink clusters as they are my new friends I made in UCD as some of the people from the school in Wicklow are now attending UCD.  
 
