@@ -1,6 +1,4 @@
-naomutai
-========
-
+#Network theory
  
 Creating the graph
 -------------------------
